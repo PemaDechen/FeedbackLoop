@@ -20,3 +20,6 @@ Short entries: decision, why, trade-off. These become my interview answers.
 ## 4. Stack (details and reasons in CLAUDE.md)
 Next.js (frontend), Express (API), MongoDB, Redis + BullMQ (queue), separate worker process, Docker Compose, Zod.
 The screens and minimum API routes are also listed in CLAUDE.md. They get their own entries here as we build each one.
+
+
+An image is a read-only package; a container is a running instance of it. Compose lets me describe several containers in one YAML file and start or remove them with one command. In ports, left is my machine, right is the container
